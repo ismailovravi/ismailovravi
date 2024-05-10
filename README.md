@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ravi Ismailovravi
-- 👀 I’m interested in React, Angular, Node, Next, Vue, and much more :)
+- 👋 Hi, I’m Ravi Ismailov.
+- 👀 I’m interested in React, Angular, Node, Next, Vue, and much more.
 - 🌱 I’m currently learning new techniques and skills.
 - 💞️ I’m looking to collaborate on long term engagement.
 
